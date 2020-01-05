@@ -14,7 +14,7 @@ python 205_testfile_uid_behavior_cos.py
 
 python 302_testfile_cal_ans_ques_cos.py
 python 303_testfile_cal_cos.py
-pyton 304_testfile_lag_inv_cos.py
+python 304_testfile_lag_inv_cos.py
 python 305_testfile_user_profile_cos.py
 python 306_check_cos.py
 
