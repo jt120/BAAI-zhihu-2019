@@ -62,3 +62,19 @@ sh run_predict.sh
 3. 加入预赛结果数据取概率大于95%和小于1%的作为伪标签
 
 融合方法，所有预测结果，做mean，能提升0.005，因为在实际工作中不会使用，故此处不包括这部分了内容
+
+# 楼上的大佬
+
+* 4th: https://github.com/VoldeMortzzz/2019Baai-zhihu-Cup-findexp-4th
+* 6th: https://github.com/liuchenailq/zhihu-findexp
+
+# 知乎文章
+
+里面比赛过程的一些记录
+
+https://zhuanlan.zhihu.com/p/101161233
+
+# 拿胡渊鸣大佬的文章镇楼
+
+https://zhuanlan.zhihu.com/p/97700605
+
