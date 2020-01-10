@@ -70,7 +70,7 @@ sh run_predict.sh
 
 # 知乎文章
 
-里面比赛过程的一些记录
+一些比赛过程的记录
 
 https://zhuanlan.zhihu.com/p/101161233
 
