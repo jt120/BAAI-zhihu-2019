@@ -3,8 +3,7 @@ https://www.biendata.com/competition/zhihu2019/
 
 # 数据
 
-链接: https://pan.baidu.com/s/1Ttc3TUnW_C2p_Sa6i5d11Q  
-密码: slrl
+https://www.biendata.com/competition/bosch/data/
 
 # 目标
 
